@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# A Note on Subsecond Base-2 Time Intervals
+
+N. E. Davis ~lagrev-nocfep. *Urbit Systems Technical Journal* 1(2), 2024.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389626.svg)](https://doi.org/10.5281/zenodo.24389626) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v01-i02/a-note-on-subsecond-base-2-time-intervals)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
